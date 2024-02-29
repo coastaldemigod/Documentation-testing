@@ -1,4 +1,4 @@
-# What is Akto?
+# What is Akto v2?
 
 [How it works](./#how-it-works) • [Getting-Started](./#how-to-get-started) • [API Inventory](api-inventory/concepts/api-collection.md) • [API testing](testing/run-test.md) • [Add Test](testing/test-library.md) • [Join Discord community](https://discord.com/invite/Wpc6xVME4s) •
 
