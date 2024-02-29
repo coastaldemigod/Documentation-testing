@@ -4,7 +4,7 @@ Harness the power of ChatGPT for API Security on your fingertips now! Akto integ
 
 ### Data concerns
 
-Here is how and what of your data -
+Here is how and what of your data handling -
 
 1. No data is sent out unless you click on the Send button [![Screenshot 2023-04-09 at 10 54 33 PM](https://user-images.githubusercontent.com/91221068/230789406-c1e898ab-52e1-45b2-b3b8-d4810e6d78ae.png)](https://user-images.githubusercontent.com/91221068/230789406-c1e898ab-52e1-45b2-b3b8-d4810e6d78ae.png)
 2. Your Login email is sent to with every request to Akto. This email is retained by Akto and NOT sent to ChatGPT. This email ID is retained only till we receive a response from ChatGPT.
